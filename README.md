@@ -12,7 +12,9 @@ This repository provides implementation for the aProx optimizatin algorithms (Tr
 
 The following plots (from the paper) show the time-to-convergence as a function of the stepsize for various methods for CIFAR10 and Stanfrod-dogs datasets.
 
-![CIFAR10 plot](https://github.com/HilalAsi/APOX-Robust-Stochastic-Optimization-Algorithms/blob/master/paper-plots/CIFAR-plot.PNG "CIFAR10")
+![CIFAR10 plot](https://github.com/HilalAsi/APOX-Robust-Stochastic-Optimization-Algorithms/blob/master/paper-plots/CIFAR10-plot.PNG "CIFAR10")
+
+![Stanford dogs plot](https://github.com/HilalAsi/APOX-Robust-Stochastic-Optimization-Algorithms/blob/master/paper-plots/stanford-dogs-plot.PNG "Stanford dogs")
 
 ## Contact
 
