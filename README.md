@@ -14,7 +14,7 @@ The following plots (from the paper) show the time-to-convergence as a function 
 
 ![CIFAR10 plot](https://github.com/HilalAsi/APOX-Robust-Stochastic-Optimization-Algorithms/blob/master/paper-plots/CIFAR10-plot.PNG "CIFAR10")
 
-![Stanford dogs plot](https://github.com/HilalAsi/APOX-Robust-Stochastic-Optimization-Algorithms/blob/master/paper-plots/stanford-dogs-plot.PNG "Stanford dogs")
+![Stanford dogs plot](https://github.com/HilalAsi/APOX-Robust-Stochastic-Optimization-Algorithms/blob/master/paper-plots/Stanford-dogs-plot.PNG "Stanford dogs")
 
 ## Contact
 
