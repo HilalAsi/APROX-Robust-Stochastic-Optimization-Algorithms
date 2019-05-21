@@ -1,4 +1,4 @@
-# APOX: Robust Stochastic Optimization Algorithms
+# APROX: Robust Stochastic Optimization Algorithms
 
 TensorFlow and Pytorch open source implementation for the aProx optimization methods from the paper:
 
