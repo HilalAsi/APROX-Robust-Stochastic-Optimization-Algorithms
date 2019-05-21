@@ -1,8 +1,6 @@
 import tensorflow as tf
 import optimizers
-import numpy as np
-import math
-import matplotlib.pyplot as plt
+
 
 
 
