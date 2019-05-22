@@ -29,7 +29,7 @@ If you use this code, please cite our paper:
 @article{asi2019importance,
   title={The importance of better models in stochastic optimization},
   author={Asi, Hilal and Duchi, John C},
-  journal={arXiv preprint arXiv:1903.08619},
+  journal={arXiv:1903.08619 [math.OC]},
   year={2019}
 }
 ```
