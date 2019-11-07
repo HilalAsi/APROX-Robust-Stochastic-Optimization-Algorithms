@@ -10,7 +10,7 @@ by [Hilal Asi](http://web.stanford.edu/~asi/) and [John Duchi](http://web.stanfo
 
 This repository provides implementation for the aProx optimizatin algorithms (Truncated and Truncated-Adagrad), which improve the robustness of classical optimization algorithms (e.g. SGD and Adagrad) to the stepsize value. The folders Optimizers_tf and Optimizers_pytorch include the implementation for TensorFlow and Pytorch, respectively. Examples of using these optimizers can be found in the files example_tf.py and example_pytorch.py.
 
-The following plots (from the paper) show the time-to-convergence as a function of the stepsize for various methods for CIFAR10 and Stanfrod-dogs datasets.
+The following plots (from the paper) show the time-to-convergence as a function of the stepsize for various methods for CIFAR10 and Stanfrod-dogs datasets. You can reproduce these plots by running the file paper-code/stability_check.py with the desired dataset.
 
 ![CIFAR10 plot](https://github.com/HilalAsi/APOX-Robust-Stochastic-Optimization-Algorithms/blob/master/paper-plots/CIFAR10-plot.PNG "CIFAR10")
 
