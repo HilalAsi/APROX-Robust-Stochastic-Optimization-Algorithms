@@ -26,10 +26,12 @@ The following plots (from the paper) show the time-to-convergence as a function 
 
 If you use this code, please cite our paper:
 ```
-@article{asi2019importance,
-  title={The importance of better models in stochastic optimization},
-  author={Asi, Hilal and Duchi, John C},
-  journal={arXiv:1903.08619 [math.OC]},
-  year={2019}
+@article {AsiDu19,
+	author = {Asi, Hilal and Duchi, John C.},
+	title = {The importance of better models in stochastic optimization},
+	year = {2019},
+	issn = {0027-8424},
+	eprint = {https://www.pnas.org/content/early/2019/10/29/1908018116.full.pdf},
+	journal = {Proceedings of the National Academy of Sciences}
 }
 ```
