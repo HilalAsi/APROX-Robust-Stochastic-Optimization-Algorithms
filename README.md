@@ -2,7 +2,7 @@
 
 TensorFlow and Pytorch open source implementation for the aProx optimization methods from the paper:
 
-[*The importance of better models in stochastic optimization*](https://arxiv.org/abs/1903.08619)
+[*The importance of better models in stochastic optimization*](https://www.pnas.org/content/early/2019/10/29/1908018116)
 
 by [Hilal Asi](http://web.stanford.edu/~asi/) and [John Duchi](http://web.stanford.edu/~jduchi/).
 
